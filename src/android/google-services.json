@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "824695881232",
+    "firebase_url": "https://caramba-c8685.firebaseio.com",
+    "project_id": "caramba-c8685",
+    "storage_bucket": "caramba-c8685.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:824695881232:android:1df9aa95c792fa19",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "nl.caramba.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "824695881232-7a9q9n29ousutn8ke3mkutc6fi45rg6p.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyDf2PrL_qVx13SqX41JAkUHx10H3ujHzi8"
         }
       ],
       "services": {
